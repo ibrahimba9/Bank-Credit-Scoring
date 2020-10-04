@@ -63,5 +63,5 @@ The interface contains a formular where we enter a new client's credentials and 
 ## Creation of an interactive Analytical Dashboard for Data visualization and data Analysis
 In this interface, the user can visually track, analyze and display key performance indicators (KPI), metrics and key data points.
 ![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/Dashboard1.png?raw=true)
-![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/Dashboard2.png?raw=true)
+![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/dashboard2.png?raw=true)
 ![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/Dashboard3.png?raw=true)
