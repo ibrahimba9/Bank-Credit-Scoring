@@ -57,6 +57,11 @@ Before applying the Classification algorithms we need to deal with the missing v
 We created a web based application using flask for model deployment and integration of a Dashboard for data analysis.
 ## Predictive model deployment
 The interface contains a formular where we enter a new client's credentials and his previous interactions and transactions with the bank (behavior) in order to predict his eligibility for future loans application. 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/pred1.png?raw=true)
+![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/pred2.png?raw=true)
+
 ## Creation of an interactive Analytical Dashboard for Data visualization and data Analysis
 In this interface, the user can visually track, analyze and display key performance indicators (KPI), metrics and key data points.
+![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/Dashboard1.png?raw=true)
+![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/Dashboard2.png?raw=true)
+![alt text](https://github.com/ibrahimba9/Bank-Scoring/blob/master/Screenshots/Dashboard3.png?raw=true)
